@@ -1,0 +1,33 @@
+{
+  "name": "kaos",
+  "version": "0.1.0-dev",
+  "description": "Kaos for Desktop",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N11Software/kaos.git"
+  },
+  "author": "N11 Software",
+  "contributors": [
+    {
+      "name": "Ariston Lorenzo",
+      "social": "@4tl0renz0",
+      "email": "aristonl@n11software.com",
+      "url": "https://n11software.com"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/N11Software/kaos/issues"
+  },
+  "homepage": "https://github.com/N11Software/kaos#readme",
+  "devDependencies": {
+    "electron": "^18.2.3"
+  },
+  "dependencies": {
+    "react": "^18.1.0"
+  }
+}
